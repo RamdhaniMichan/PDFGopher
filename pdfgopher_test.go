@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	. "github.com/rdhn/PDFGopher"
+	. "github.com/RamdhaniMichan/PDFGopher"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -1,4 +1,4 @@
-module github.com/RamdhaniMichan/PDFGopher
+module github.com/Michan/PDFGopher
 
 go 1.20
 

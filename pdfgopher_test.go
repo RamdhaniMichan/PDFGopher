@@ -1,9 +1,10 @@
 package pdfgopher_test
 
 import (
-	. "PDFGopher"
 	"fmt"
 	"testing"
+
+	. "github.com/RamdhaniMichan/PDFGopher"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -10,7 +10,7 @@ The PDFGopher library provides operations for processing PDF files, including ad
 
 To use the PDFGopher library, you need to have Go installed. You can install the library using the following command:
 ```bash
- go get github.com/[library_path]
+ go get github.com/RamdhaniMichan/pdfgopher
 ```
     
 ## Usage
